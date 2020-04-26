@@ -14,5 +14,5 @@ function increment(n){
   return ++n;
 }
 function decrement(n){
-  return --in;
+  return --n;
 }
